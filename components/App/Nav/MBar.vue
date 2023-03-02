@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full px-4 sm:px-8 md:px-12 lg:px-28 py-4 text-black flex flex-col items-center justify-between">
+  <div class="w-full z-10 absolute bg-white px-4 sm:px-8 md:px-12 lg:px-28 py-4 text-black flex flex-col items-center justify-between">
     <div class="w-full items-center flex justify-between">
       <div class="w-fit" >
         <NuxtLink class="flex items-center" to="/#">
