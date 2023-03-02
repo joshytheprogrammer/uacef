@@ -8,7 +8,7 @@
       <h1 class="text-5xl lg:text-7xl font-bold">Building</h1>
       <h4 class="text-xl lg:text-4xl font-bold pt-2">4 a better Nigeria</h4>
     </div>
-    <p class="py-4 leading-6 lg:pb-12 lg:w-1/2">The United Akokwa Christian Elites Forum is a non denominational forum with a special assignment for our land and our generation - Help the needy, bless the poor and put smiles on the faces of Nigerians.</p>
+    <p class="py-4 leading-6 lg:pb-12 lg:w-1/2">The United Akokwa Christian Elites Forum is a non denominational forum with a special assignment for our land and our generation - Help the needy, bless the poor and put smiles on the faces of our countrymen.</p>
     <div class="block pt-4 sm:pt-0">
       <NuxtLink to="/contact" class="btn bg-violet-900 rounded-2xl px-8 py-4 mr-4">Join us</NuxtLink>
       <NuxtLink to="/about" class="btn hover:bg-violet-900 border border-violet-900 rounded-2xl px-8 py-4 mr-4">Read More</NuxtLink>
