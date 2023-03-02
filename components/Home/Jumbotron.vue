@@ -1,17 +1,17 @@
 <template>
   <div class="
   text-white px-8 md:px-12 lg:px-28 flex flex-col justify-center bg-no-repeat h-96 md:h-[520px]
-  bg-[url('https://images.unsplash.com/photo-1609267257624-12a07857c7fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&q=80')] 
+  bg-[url('https://images.unsplash.com/photo-1609267257624-12a07857c7fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=978&q=80')] 
   md:bg-[url('https://images.unsplash.com/photo-1609267257624-12a07857c7fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&q=80')] 
   lg:bg-[url('https://images.unsplash.com/photo-1494832944834-a08818c634b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=scale&w=1920&q=80')]">
     <div class="pb-4">
       <h1 class="text-5xl lg:text-7xl font-bold">Building</h1>
       <h4 class="text-xl lg:text-4xl font-bold pt-2">4 a better Nigeria</h4>
     </div>
-    <p class="py-4 leading-6 lg:pb-12 lg:w-1/2">The United Akokwa Christian Elites Forum is a non denominational forum with a special assignment for our land and our generation - Help the needy, bless the poor and put smiles on the faces of our countrymen.</p>
-    <div class="block pt-4 sm:pt-0">
-      <NuxtLink to="/contact" class="btn bg-violet-900 rounded-2xl px-8 py-4 mr-4">Join us</NuxtLink>
-      <NuxtLink to="/about" class="btn hover:bg-violet-900 border border-violet-900 rounded-2xl px-8 py-4 mr-4">Read More</NuxtLink>
+    <p class="py-4 leading-6 lg:pb-12 md:w-full lg:w-1/2">The United Akokwa Christian Elites Forum is a non denominational forum with a special assignment for our land and our generation - Help the needy, bless the poor and put smiles on the faces of our countrymen.</p>
+    <div class="flex pt-4 sm:pt-0">
+      <NuxtLink to="/contact" class="block bg-violet-900 rounded-2xl px-8 py-4 mr-4">Join us</NuxtLink>
+      <NuxtLink to="/about" class="block hover:bg-violet-900 border border-violet-900 rounded-2xl px-8 py-4 mr-4">Read More</NuxtLink>
     </div>
   </div>
 </template>
