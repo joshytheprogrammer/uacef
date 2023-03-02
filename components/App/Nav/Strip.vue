@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full px-4 sm:px-8 md:px-12 lg:px-28 bg-violet-900 text-white flex items-center justify-between">
+  <div class="w-full px-4 sm:px-8 md:px-12 lg:px-28 bg-purple-900 text-white flex items-center justify-between">
     <div class="text-sm hidden md:block">
       <span class="pr-4">MAIL: contact@ourcharity.com</span>
       <span class="pr-4">PHONE: +234 345 678 901 </span>

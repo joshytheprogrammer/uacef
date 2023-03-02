@@ -10,8 +10,8 @@
     </div>
     <p class="py-4 leading-6 lg:pb-12 md:w-full lg:w-1/2">The United Akokwa Christian Elites Forum is a non denominational forum with a special assignment for our land and our generation - Helping the needy, blessing the poor and putting smiles on the faces of our countrymen. We have been working at it for over <span class="font-semibold">2 DECADES</span> and we won't stop anytime soon. </p>
     <div class="flex pt-4 sm:pt-0">
-      <NuxtLink to="/contact" class="block bg-violet-900 rounded-2xl px-8 py-4 mr-4">Join us</NuxtLink>
-      <NuxtLink to="/about" class="block hover:bg-violet-900 border border-violet-900 rounded-2xl px-8 py-4 mr-4">Read More</NuxtLink>
+      <NuxtLink to="/contact" class="block bg-purple-900 rounded-2xl px-8 py-4 mr-4">Join us</NuxtLink>
+      <NuxtLink to="/about" class="block hover:bg-purple-900 border border-purple-900 rounded-2xl px-8 py-4 mr-4">Read More</NuxtLink>
     </div>
   </div>
 </template>
