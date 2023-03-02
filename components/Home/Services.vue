@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-between flex-wrap text-center text-white px-8 md:px-12 lg:px-28 py-24">
+  <div class="flex justify-between flex-wrap text-center text-white px-4 sm:px-8 md:px-12 lg:px-28 py-24">
     <div class="w-full sm:w-fit md:w-[49%] lg:w-[32.7%] rounded-2xl  py-8 px-8 mb-4 flex flex-col items-center bg-gradient-to-r from-purple-500 to-purple-900">
       <figure class="mb-6">
         <Icon name="mdi:handshake-outline" size="4.5em" />
