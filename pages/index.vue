@@ -4,5 +4,6 @@
     <HomeServices />
     <HomeAbout />
     <HomeGallery />
+    <HomeSpeakers />
   </div>
 </template>
