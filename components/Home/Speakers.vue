@@ -8,7 +8,7 @@
     before:content-[''] before:absolute before:w-24 before:h-1 before:rounded-sm before:bg-purple-900 before:bottom-0 before:left-0
     text-4xl md:text-5xl pb-6 font-semibold relative
     ">Our Causes</h1>
-    <div class="w-full md:flex justify-between pt-24 ">
+    <div class="w-full md:flex justify-between pt-16">
       <div class="rounded-2xl w-full mb-4 sm:w-fit md:w-[49%] lg:w-[32.7%]">
         <img class="rounded-t-2xl " src="https://i0.wp.com/topcelebrities.com.ng/wp-content/uploads/2021/08/IMG-20210801-WA0055.jpg?resize=465%2C310&ssl=1" alt="Help widows image">
         <div class="bg-white p-6">
