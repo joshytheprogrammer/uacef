@@ -6,6 +6,7 @@
     <NuxtLayout>
       <NuxtPage class="mt-24 md:mt-0" />
     </NuxtLayout>
+    <AppFooter />
   </div>
 </template>
 
