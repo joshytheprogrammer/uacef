@@ -1,5 +1,5 @@
 <template>
-  <div class="text-white py-8 px-4 sm:px-8 md:px-12 lg:px-28 lg:py-32 flex flex-col justify-center bg-no-repeat bg-fixed h-fit md:h-[520px] bg-[url('https://images.unsplash.com/photo-1609267257624-12a07857c7fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=978&q=80')] md:bg-[url('https://res.cloudinary.com/dsgvwxygr/image/upload/c_scale,q_100,w_1080/v1677861520/uacef/bg-img-2_wv0rpv.jpg')] lg:bg-[url('https://res.cloudinary.com/dsgvwxygr/image/upload/c_scale,q_100,w_1980/v1677861520/uacef/bg-img-2_wv0rpv.jpg')]">
+  <div class="text-white py-8 px-4 sm:px-8 md:px-12 lg:px-28 lg:py-32 flex flex-col justify-center bg-repeat bg-fixed h-fit md:h-[520px] bg-[url('https://res.cloudinary.com/dsgvwxygr/image/upload/v1677862396/uacef/bg-img-3_r7pmlz.jpg')] md:bg-[url('https://res.cloudinary.com/dsgvwxygr/image/upload/c_scale,q_100,w_1080/v1677861520/uacef/bg-img-2_wv0rpv.jpg')] lg:bg-[url('https://res.cloudinary.com/dsgvwxygr/image/upload/c_scale,q_100,w_1920/v1677862396/uacef/bg-img-3_r7pmlz.jpg')]">
     <div class="pb-4">
       <h1 class="text-5xl lg:text-7xl font-bold">Building</h1>
       <h4 class="text-xl lg:text-4xl font-bold pt-2">4 a better Nigeria</h4>
