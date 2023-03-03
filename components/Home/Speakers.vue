@@ -8,7 +8,21 @@
     before:content-[''] before:absolute before:w-24 before:h-1 before:rounded-sm before:bg-purple-900 before:bottom-0 before:left-0
     text-4xl md:text-5xl pb-6 font-semibold relative
     ">Our Causes</h1>
-    <div class="w-full md:flex justify-between py-24 ">
+    <div class="w-full md:flex justify-between pt-24 ">
+      <div class="rounded-2xl w-full sm:w-fit md:w-[49%] lg:w-[32.7%]">
+        <img class="rounded-t-2xl " src="https://i0.wp.com/topcelebrities.com.ng/wp-content/uploads/2021/08/IMG-20210801-WA0055.jpg?resize=465%2C310&ssl=1" alt="Help widows image">
+        <div class="bg-white p-6">
+          <h3 class="text-xl font-semibold">Help widows </h3>
+          <p class="text-slate-500 mt-6 text-sm leading-7">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam voluptate, quas dignissimos odit blanditiis fugiat beatae aspernatur animi?</p>
+        </div>
+      </div>
+      <div class="rounded-2xl w-full sm:w-fit md:w-[49%] lg:w-[32.7%]">
+        <img class="rounded-t-2xl " src="https://i0.wp.com/topcelebrities.com.ng/wp-content/uploads/2021/08/IMG-20210801-WA0055.jpg?resize=465%2C310&ssl=1" alt="Help widows image">
+        <div class="bg-white p-6">
+          <h3 class="text-xl font-semibold">Help widows </h3>
+          <p class="text-slate-500 mt-6 text-sm leading-7">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam voluptate, quas dignissimos odit blanditiis fugiat beatae aspernatur animi?</p>
+        </div>
+      </div>
       <div class="rounded-2xl w-full sm:w-fit md:w-[49%] lg:w-[32.7%]">
         <img class="rounded-t-2xl " src="https://i0.wp.com/topcelebrities.com.ng/wp-content/uploads/2021/08/IMG-20210801-WA0055.jpg?resize=465%2C310&ssl=1" alt="Help widows image">
         <div class="bg-white p-6">
