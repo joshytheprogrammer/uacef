@@ -12,32 +12,42 @@ images = [
   {
     id: 0,
     alt: 'img-1',
-    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1662190088/masterpiece/MODO7364_hn0pra.jpg'
+    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832846/uacef/photo_2023-03-03_09-37-15_pxcryi.jpg'
   },
   {
     id: 1,
     alt: 'img-2',
-    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1662457782/masterpiece/MODO7289_zxypmq.jpg'
+    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832846/uacef/photo_2023-03-03_09-37-09_r4qh5c.jpg'
   },
   {
-    id: 2,
-    alt: 'img-3',
-    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1662543202/masterpiece/MODO7289_qqhhe6_1f1e80.jpg'
+    id: 3,
+    alt: 'img-4',
+    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832846/uacef/photo_2023-03-03_09-36-58_hhp75h.jpg'
   },
   {
-    id: 38,
-    alt: 'img-39',
-    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1662998045/masterpiece/127A0070_i4dhh8.jpg'
+    id: 4,
+    alt: 'img-5',
+    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832846/uacef/photo_2023-03-03_09-36-46_dyaens.jpg'
   },
   {
-    id: 39,
-    alt: 'img-40',
-    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1662998045/masterpiece/127A0182_twuhoq.jpg'
+    id: 5,
+    alt: 'img-6',
+    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832846/uacef/photo_2023-03-03_09-36-53_gwik4r.jpg'
   },
   {
-    id: 40,
-    alt: 'img-41',
-    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1662998045/masterpiece/127A0036_eeykxu.jpg'
+    id: 6,
+    alt: 'img-7',
+    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832846/uacef/photo_2023-03-03_09-36-43_gpwjcm.jpg'
+  },
+  {
+    id: 7,
+    alt: 'img-8',
+    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832845/uacef/photo_2023-03-03_09-36-39_mvp7xl.jpg'
+  },
+  {
+    id: 8,
+    alt: 'img-9',
+    link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832845/uacef/photo_2023-03-03_09-36-27_yf1dph.jpg'
   },
 ]
 </script>
