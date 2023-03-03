@@ -14,8 +14,8 @@ export default defineNuxtConfig({
   ],
   googleFonts: {
     families: {
-      Inter: true,
-      'Josefin+Sans': true,
+      Poppins: true,
+      Lato: true,
     },
     prefetch: true,
     preconnect: true,
