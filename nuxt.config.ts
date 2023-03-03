@@ -9,16 +9,4 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     'nuxt-icon'
   ],
-  buildModules: [
-    '@nuxtjs/google-fonts'
-  ],
-  googleFonts: {
-    families: {
-      Poppins: true,
-      Lato: true,
-    },
-    prefetch: true,
-    preconnect: true,
-    preload: true
-  }
 })
