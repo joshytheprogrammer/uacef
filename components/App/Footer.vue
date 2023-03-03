@@ -8,9 +8,20 @@
       <p class="py-4 leading-7 lg:pb-12 md:w-full">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia recusandae culpa unde minima inventore repellat exercitationem eos impedit omnis quibusdam voluptate cum ullam, cumque, libero a deserunt odio saepe, adipisci ut ipsam? Quas autem ipsam illo ratione. Facilis dignissimos hic labore, impedit ea similique, magni, saepe natus distinctio voluptatibus exercitationem at? Iste porro hic quos voluptatibus error delectus praesentium officia?
       </p>
-      <div class="">
-        
-      </div>
+      <ul class="flex w-full">
+        <li class="pr-4">
+          <Icon name="cib:facebook" />
+        </li>
+        <li class="pr-4">
+          <Icon name="cib:instagram" />
+        </li>
+        <li class="pr-4">
+          <Icon name="cib:twitter" />
+        </li>
+        <li class="pr-4">
+          <Icon name="cib:pinterest" />
+        </li>
+      </ul>
     </div>
     <div class=""></div>
     <div class=""></div>
