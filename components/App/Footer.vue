@@ -1,12 +1,12 @@
 <template>
-  <div class="w-full bg-white py-8 px-4 sm:px-8 md:px-12 lg:px-28 lg:py-20 flex flex-col lg:flex-row items-start justify-between">
+  <div class="w-full bg-white py-8 px-4 sm:px-8 md:px-12 lg:px-28 lg:py-16 flex flex-col lg:flex-row items-start justify-between">
     <div class="max-w-md">
       <NuxtLink class="flex items-center pb-4" to="/#">
         <img class="w-16 pr-4" src="~/assets/img/uacef-logo.png" alt="UACEF Logo">
         <span class="text-5xl text-purple-900 font-bold">UACEF</span>
       </NuxtLink>
-      <p class="py-8 leading-7 lg:pb-12 md:w-full">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia recusandae culpa unde minima inventore repellat exercitationem eos impedit omnis quibusdam voluptate cum ullam, cumque, libero a deserunt odio saepe, adipisci ut ipsam? Quas autem ipsam illo ratione. Facilis dignissimos hic labore, impedit ea similique, magni, saepe natus distinctio voluptatibus exercitationem at? Iste porro hic quos voluptatibus error delectus praesentium officia?
+      <p class="py-8 text-sm leading-7 lg:pb-12 md:w-full">
+        After initial changes of days, the forum finally settled for 26th - 28th December every year. Several seasoned ministers have mounted the podium to speak on our lives and the land which have given rise to thousands of souls been worn yearly into the kingdom. Speakers like Rev. Prof Most Madugba(International president, Ministers prayer network), Rev Dr. Charles Osueke(former GS Assemblies of God international), Bishop E.O.Ikeakor(Bishop Amichi Diocese Anglican communion), Witness Ken Paul Obieke, Rev Dr Emma Ifeadike etc
       </p>
       <ul class="flex w-full pb-8">
         <li class="pr-4">
@@ -53,6 +53,10 @@
         <li class="pb-8">
           <Icon class="pr-1 text-purple-900"  name="material-symbols:mail-rounded" size="1.25em" />
           <span class="pr-4">contact@ourcharity.com</span>
+        </li>
+        <li class="pb-8">
+          <Icon class="pr-1 text-purple-900"  name="material-symbols:location-on" size="1.25em" />
+          <span class="pr-4">No 45-46, b3, 56832, Los Angeles, CA</span>
         </li>
       </ul>
     </div>
