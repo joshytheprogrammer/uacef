@@ -49,5 +49,5 @@ images = [
     alt: 'img-9',
     link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832845/uacef/photo_2023-03-03_09-36-27_yf1dph.jpg'
   },
-]
+];
 </script>
