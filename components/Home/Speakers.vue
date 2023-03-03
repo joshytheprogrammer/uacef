@@ -12,22 +12,22 @@
       <div class="rounded-2xl w-full mb-4 sm:w-fit md:w-[49%] lg:w-[32.7%]">
         <img class="rounded-t-2xl " src="https://i0.wp.com/topcelebrities.com.ng/wp-content/uploads/2021/08/IMG-20210801-WA0055.jpg?resize=465%2C310&ssl=1" alt="Help widows image">
         <div class="bg-white p-6">
-          <h3 class="text-xl font-semibold">Help widows </h3>
-          <p class="text-slate-500 mt-6 text-sm leading-7">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam voluptate, quas dignissimos odit blanditiis fugiat beatae aspernatur animi?</p>
+          <h3 class="text-xl font-semibold">Providing for Widows</h3>
+          <p class="text-slate-500 mt-6 text-sm leading-7">“Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world.”</p>
         </div>
       </div>
       <div class="rounded-2xl w-full mb-6 sm:w-fit md:w-[49%] lg:w-[32.7%]">
         <img class="rounded-t-2xl " src="https://i0.wp.com/topcelebrities.com.ng/wp-content/uploads/2021/08/IMG-20210801-WA0055.jpg?resize=465%2C310&ssl=1" alt="Help widows image">
         <div class="bg-white p-6">
-          <h3 class="text-xl font-semibold">Help widows </h3>
-          <p class="text-slate-500 mt-6 text-sm leading-7">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam voluptate, quas dignissimos odit blanditiis fugiat beatae aspernatur animi?</p>
+          <h3 class="text-xl font-semibold">Helping those in need</h3>
+          <p class="text-slate-500 mt-6 text-sm leading-7">"For there will never cease to be poor in the land. Therefore I command you, 'You shall open wide your hand to your brother, to the needy and to the poor, in your land.'"</p>
         </div>
       </div>
       <div class="rounded-2xl w-full mb-6 sm:w-fit md:w-[49%] lg:w-[32.7%]">
         <img class="rounded-t-2xl " src="https://i0.wp.com/topcelebrities.com.ng/wp-content/uploads/2021/08/IMG-20210801-WA0055.jpg?resize=465%2C310&ssl=1" alt="Help widows image">
         <div class="bg-white p-6">
-          <h3 class="text-xl font-semibold">Help widows </h3>
-          <p class="text-slate-500 mt-6 text-sm leading-7">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam voluptate, quas dignissimos odit blanditiis fugiat beatae aspernatur animi?</p>
+          <h3 class="text-xl font-semibold">Education for all</h3>
+          <p class="text-slate-500 mt-6 text-sm leading-7">"My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me..."</p>
         </div>
       </div>
     </div>
