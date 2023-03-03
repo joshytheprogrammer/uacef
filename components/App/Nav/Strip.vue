@@ -1,8 +1,14 @@
 <template>
   <div class="w-full px-4 sm:px-8 md:px-12 lg:px-28 bg-purple-900 text-white flex items-center justify-between">
     <div class="text-sm hidden md:block">
-      <span class="pr-4">MAIL: contact@ourcharity.com</span>
-      <span class="pr-4">PHONE: +234 345 678 901 </span>
+      <span class="pr-4">
+        <Icon name="material-symbols:mail-rounded" size="1.25em" /> 
+        <span class="pl-1">contact@ourcharity.com</span>
+      </span>
+      <span class="pr-4">
+        <Icon name="material-symbols:phone-in-talk" size="1.25em" />
+        <span class="pl-1">+234 345 678 901 </span>
+      </span>
     </div>
     <div class="text-sm md:text-base">
       <span>United Akokwa Christian Elites Forum</span>

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full bg-white py-8 px-4 sm:px-8 md:px-12 lg:px-28 lg:py-32 flex flex-col lg:flex-row items-start justify-between">
+  <div class="w-full bg-white py-8 px-4 sm:px-8 md:px-12 lg:px-28 lg:py-20 flex flex-col lg:flex-row items-start justify-between">
     <div class="max-w-md">
       <NuxtLink class="flex items-center pb-4" to="/#">
         <img class="w-16 pr-4" src="~/assets/img/uacef-logo.png" alt="UACEF Logo">
@@ -26,25 +26,35 @@
     <div class="flex flex-col justify-between">
       <h3 class="text-3xl font-semibold pb-4 text-purple-900">Useful Links</h3>
       <ul class="py-8">
-        <li class="pb-4">
-          <NuxtLink class="hover:underline" to="/">Home</NuxtLink>
+        <li class="pb-8">
+          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/">Home</NuxtLink>
         </li>
-        <li class="pb-4">
-          <NuxtLink class="hover:underline" to="/">About us</NuxtLink>
+        <li class="pb-8">
+          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/">About us</NuxtLink>
         </li>
-        <li class="pb-4">
-          <NuxtLink class="hover:underline" to="/">Causes</NuxtLink>
+        <li class="pb-8">
+          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/">Causes</NuxtLink>
         </li>
-        <li class="pb-4">
-          <NuxtLink class="hover:underline" to="/">Gallery</NuxtLink>
+        <li class="pb-8">
+          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/">Gallery</NuxtLink>
         </li>
-        <li class="pb-4">
-          <NuxtLink class="hover:underline" to="/">Contact</NuxtLink>
+        <li class="pb-8">
+          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/">Contact</NuxtLink>
         </li>
       </ul>
     </div>
-    <div class="">
-      <h3>Contact Info</h3>
+    <div class="flex flex-col justify-between">
+      <h3 class="text-3xl font-semibold pb-4 text-purple-900">Contact us</h3>
+      <ul class="py-8">
+        <li class="pb-8 ">
+          <Icon class="pr-1 text-purple-900" name="material-symbols:phone-in-talk" size="1.25em" />
+          <span class="pr-4">+234 345 678 901 </span>
+        </li>
+        <li class="pb-8">
+          <Icon class="pr-1 text-purple-900"  name="material-symbols:mail-rounded" size="1.25em" />
+          <span class="pr-4">contact@ourcharity.com</span>
+        </li>
+      </ul>
     </div>
   </div>
 </template>
