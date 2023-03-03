@@ -10,7 +10,7 @@
         </div>
       </div>
       <div class="rounded-2xl w-full mb-6 sm:w-fit md:w-[49%] lg:w-[32.7%]">
-        <img class="w-full rounded-t-2xl object-fill" src="https://images.unsplash.com/photo-1625481710487-b93a4142d0a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="Helping those in need image">
+        <img class="w-full rounded-t-2xl object-fill" src="https://res.cloudinary.com/dsgvwxygr/image/upload/q_100/v1677861520/uacef/bg-img-1_a9pp2c.jpg" alt="Helping those in need image">
         <div class="bg-white p-6">
           <h3 class="text-xl font-semibold">Helping those in need</h3>
           <p class="text-slate-500 mt-6 text-sm leading-7">"For there will never cease to be poor in the land. Therefore I command you, 'You shall open wide your hand to your brother, to the needy and to the poor, in your land.'"</p>
