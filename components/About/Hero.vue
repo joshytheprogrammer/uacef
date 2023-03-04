@@ -3,11 +3,3 @@
     <h1 class="before:content-[''] before:absolute before:w-24 before:h-1 before:rounded-sm before:bg-purple-900 before:bottom-0 before:left-0 text-2xl md:text-4xl pb-6 font-semibold relative ">Our Causes</h1>
   </div>
 </template>
-
-<script setup>
-
-</script>
-
-<style lang="scss" scoped>
-
-</style>
