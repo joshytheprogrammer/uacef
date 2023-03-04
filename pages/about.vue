@@ -1,13 +1,5 @@
 <template>
-  <div>
+  <div class="about">
     <AboutHero />
   </div>
 </template>
-
-<script setup>
-
-</script>
-
-<style lang="scss" scoped>
-
-</style>
