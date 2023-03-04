@@ -16,7 +16,7 @@
     </div>
     <div v-if="isOpen" class="text-base flex flex-col items-center justify-between">
       <NuxtLink class="py-4 no-underline hover:underline hover:decoration-4 decoration-violet-900 underline-offset-[16px] font-medium hover:text-violet-900 hover:ease hover:duration-100 hover:delay-75" to="/#">Home</NuxtLink>
-      <NuxtLink class="py-4 no-underline hover:underline hover:decoration-4 decoration-violet-900 underline-offset-[16px] font-medium hover:text-violet-900 hover:ease hover:duration-100 hover:delay-75" to="/#">About</NuxtLink>
+      <NuxtLink class="py-4 no-underline hover:underline hover:decoration-4 decoration-violet-900 underline-offset-[16px] font-medium hover:text-violet-900 hover:ease hover:duration-100 hover:delay-75" to="/about">About</NuxtLink>
       <NuxtLink class="py-4 no-underline hover:underline hover:decoration-4 decoration-violet-900 underline-offset-[16px] font-medium hover:text-violet-900 hover:ease hover:duration-100 hover:delay-75" to="/#">Causes</NuxtLink>
       <NuxtLink class="py-4 no-underline hover:underline hover:decoration-4 decoration-violet-900 underline-offset-[16px] font-medium hover:text-violet-900 hover:ease hover:duration-100 hover:delay-75" to="/#">Gallery</NuxtLink>
       <NuxtLink class="py-4 no-underline hover:underline hover:decoration-4 decoration-violet-900 underline-offset-[16px] font-medium hover:text-violet-900 hover:ease hover:duration-100 hover:delay-75" to="/#">Contact</NuxtLink>
