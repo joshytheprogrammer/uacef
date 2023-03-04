@@ -1,6 +1,11 @@
 <template>
-  <div>
+  <div class="w-full ">
+    <div class="w-48%">
 
+    </div>
+    <div>
+       
+    </div>
   </div>
 </template>
 
