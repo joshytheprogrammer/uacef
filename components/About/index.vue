@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:flex flex-row-reverse justify-between items-center w-full h-fit bg-no-repeat lg:bg-fixed text-black px-4 sm:px-8 md:px-12 lg:px-28 py-24">
+  <div class="lg:flex flex-row-reverse justify-between items-center w-full h-fit bg-no-repeat lg:bg-fixed text-neutral-800 px-4 sm:px-8 md:px-12 py-16 lg:px-28 lg:py-24">
     <img class="lg:w-1/2" src="https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832406/uacef/IMG-20210801-WA0048_lf5ria.jpg" alt="About page thumbnail">
     <div class="lg:w-1/2 lg:mr-8">
       <h2 class="my-6 text-4xl md:text-5xl font-semibold">Welcome to UACEF</h2>

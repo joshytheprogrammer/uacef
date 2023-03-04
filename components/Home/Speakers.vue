@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-purple-200 md:flex flex-col justify-between items-left w-full h-fit bg-no-repeat lg:bg-fixed text-black px-4 sm:px-8 md:px-12 lg:px-28 py-24 ">
+  <div class="bg-purple-200 md:flex flex-col justify-between items-left w-full h-fit bg-no-repeat lg:bg-fixed text-neutral-800 px-4 sm:px-8 md:px-12 lg:px-28 py-24 ">
     <h1 class="before:content-[''] before:absolute before:w-24 before:h-1 before:rounded-sm before:bg-purple-900 before:bottom-0 before:left-0 text-4xl md:text-5xl pb-6 font-semibold relative ">Our Causes</h1>
     <div class="w-full md:flex flex-wrap justify-between pt-16">
       <div class="rounded-t-2xl w-full mb-4 sm:w-fit md:w-[49%] lg:w-[32.7%]">
