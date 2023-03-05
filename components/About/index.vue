@@ -3,9 +3,9 @@
     <img class="lg:w-1/2" src="https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832406/uacef/IMG-20210801-WA0048_lf5ria.jpg" alt="About page thumbnail">
     <div class="lg:w-1/2 lg:mr-8">
       <h2 class="my-6 text-2xl md:text-3xl font-semibold">Our Origins</h2>
-      <p class="my-6 text-sm leading-6 md:text-base md:leading-7"></p>
+      <p class="text-slate-500 my-6 text-sm leading-6 md:text-base md:leading-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed laborum ipsa, impedit officia doloribus quos molestiae optio! Repellendus, vero esse dolorem natus cum sint ex nesciunt minus itaque atque quis!</p>
       <div class="block">
-        <NuxtLink to="/about" class="block w-fit text-white bg-purple-900 rounded-2xl px-8 py-4">Read More</NuxtLink>
+        <NuxtLink to="/about#history" class="block w-fit text-white bg-purple-900 rounded-2xl px-8 py-4">Read More</NuxtLink>
       </div>
     </div>
   </div>
