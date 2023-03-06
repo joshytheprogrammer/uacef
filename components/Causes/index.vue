@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div class="w-full md:flex flex-wrap justify-between pt-16">
+  <div class="bg-purple-200 md:flex flex-col justify-between items-left w-full h-fit bg-no-repeat lg:bg-fixed text-neutral-800 px-4 sm:px-8 md:px-12 lg:px-28 py-24">
+    <div class="w-full md:flex flex-wrap justify-between">
       <div class="rounded-t-2xl w-full mb-4 sm:w-fit md:w-[49%] lg:w-[32.7%]">
         <img class="w-full rounded-t-2xl object-fill" src="https://images.unsplash.com/photo-1522543558187-768b6df7c25c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="Help widows image">
         <div class="bg-white p-6">
