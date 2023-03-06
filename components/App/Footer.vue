@@ -33,7 +33,7 @@
           <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/about">About us</NuxtLink>
         </li>
         <li class="pb-8">
-          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/">Causes</NuxtLink>
+          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/causes">Causes</NuxtLink>
         </li>
         <li class="pb-8">
           <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/">Gallery</NuxtLink>
