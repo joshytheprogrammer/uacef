@@ -2,7 +2,7 @@
   <div id="executives" class="flex justify-start gap-2 flex-wrap text-center text-white px-4 sm:px-8 md:px-12 lg:px-28 pb-24">
     <div class="w-full sm:w-fit md:w-[49%] lg:w-[32.7%] rounded-2xl py-8 px-8 mb-4 flex flex-col items-center bg-purple-900">
       <figure class="mb-6 w-24 border-2 rounded-full p-1">
-        <img class="rounded-full" src="https://static.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt=">Engr. Chidi Njaka - UACEF">
+        <img class="rounded-full" src="https://static.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Engr. Chidi Njaka - UACEF">
       </figure>
       <h3 class="text-lg font-medium">Engr. Chidi Njaka</h3>
       <p class="mt-2 text-sm leading-7">National President.</p>
