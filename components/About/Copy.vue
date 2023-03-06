@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full flex lg:flex-row flex-col px-4 sm:px-8 md:px-12 lg:px-28 pt-24">
+  <div class="w-full flex lg:flex-row flex-col px-4 sm:px-8 md:px-12 lg:px-28 pt-16">
     <div class="lg:w-1/2">
       <h2 class="text-2xl font-semibold">Our Mission</h2>
       <p class="text-slate-500 my-6 text-sm leading-7 md:text-base md:leading-7">UACEF was a unique assignment and a herculean task for the few brethren who caught the vision considering our people were already awashed with mediocrity. But the team did what can be considered to be spiritual expedient by putting down the high points in writing according to Habakkuk 2:2 so as to run with it, those who find it may read and understand it better.</p>
