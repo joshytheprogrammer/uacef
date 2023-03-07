@@ -36,10 +36,10 @@
           <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/causes">Causes</NuxtLink>
         </li>
         <li class="pb-8">
-          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/">Gallery</NuxtLink>
+          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/gallery">Gallery</NuxtLink>
         </li>
         <li class="pb-8">
-          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/">Contact</NuxtLink>
+          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/contact">Contact</NuxtLink>
         </li>
       </ul>
     </div>
