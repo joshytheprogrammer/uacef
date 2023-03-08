@@ -7,7 +7,7 @@ export const useMobileStore = defineStore('mobile', {
   actions: {
     checkWidth() {
       if(!process.client) {
-        this.isMobile = true 
+        this.isMobile = false 
         return
       }
 
