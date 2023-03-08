@@ -4,7 +4,8 @@
     <AppNavMBar v-if="isMobile" />
     <AppNavBar v-else />
     <NuxtLayout>
-      <NuxtPage class="mt-24 md:mt-0" />
+      <NuxtPage />
+      <!-- <NuxtPage class="mt-24 md:mt-0" /> -->
     </NuxtLayout>
     <AppFooter />
   </div>
