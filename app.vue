@@ -1,8 +1,8 @@
 <template>
   <div class="app">
     <AppNavStrip />
-    <AppNavMBar v-if="isMobile" />
-    <AppNavBar v-else />
+    <AppNavBar v-show="!isMobile" />
+    <AppNavMBar v-show="isMobile" />
     <NuxtLayout>
       <NuxtPage class="mt-24 md:mt-0" />
     </NuxtLayout>
