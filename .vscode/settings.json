@@ -11,5 +11,6 @@
   "tailwindCSS.experimental.configFile": ".nuxt/tailwind.config.cjs",
   "files.associations": {
       "*.css": "tailwindcss"
-  }
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
 }
