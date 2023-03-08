@@ -2,7 +2,7 @@ import { defineStore } from 'pinia'
 
 export const useMobileStore = defineStore('mobile', {
   state: () => ({ 
-    isMobile: true
+    isMobile: false
   }),
   actions: {
     checkWidth() {
