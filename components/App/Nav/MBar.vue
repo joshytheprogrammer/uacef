@@ -1,7 +1,7 @@
 <template>
   <div class="w-full z-10 absolute bg-white px-4 sm:px-8 md:px-12 lg:px-28 py-4 text-neutral-800 flex flex-col items-center justify-between">
     <div class="w-full items-center flex justify-between">
-      <div class="w-fit" >
+      <div class="w-fit">
         <NuxtLink class="flex items-center" to="/#">
           <img class="w-20 pr-4" src="~/assets/img/uacef-logo.png" alt="UACEF Logo">
           <span class="text-2xl text-violet-900 font-semibold">UACEF</span>
