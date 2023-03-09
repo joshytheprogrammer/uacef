@@ -2,7 +2,7 @@
   <div class="lg:flex flex-col md:flex-row justify-between items-center w-full h-fit bg-no-repeat lg:bg-fixed text-neutral-800 px-4 sm:px-8 md:px-12 py-16 lg:px-28 lg:py-24">
     <div class="lg:w-1/2">
       <h2 class="text-2xl pb-4">Get in touch with us</h2>
-      <p class="text-slate-500 text-sm pb-4 leading-7 ">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid dolore vitae, itaque voluptate blanditiis tempore quod laborum reiciendis molestiae quasi rerum maiores officiis incidunt sapiente error quisquam fuga enim quis.</p>
+      <p class="text-slate-500 text-sm pb-4 leading-7 ">We’d love to hear from you and answer any questions you might have. Your feedback is very important to us. Please leave us a message with all your inquiries, observations, suggestions, or complaints.</p>
       <ul class="flex w-full pb-8 text-purple-900">
         <li class="pr-4">
           <Icon name="cib:facebook" />
