@@ -36,3 +36,9 @@ function toggleMenu() {
   isOpen.value = !isOpen.value
 }
 </script>
+
+<style lang="postcss" scoped>
+.router-link-exact-active {
+  @apply text-purple-900 underline;
+}
+</style>

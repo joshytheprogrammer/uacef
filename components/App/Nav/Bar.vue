@@ -15,3 +15,9 @@
     </div>
   </div>
 </template>
+
+<style lang="postcss" scoped>
+.router-link-exact-active {
+  @apply text-purple-900 underline;
+}
+</style>
