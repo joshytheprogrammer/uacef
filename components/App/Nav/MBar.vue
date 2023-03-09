@@ -35,5 +35,4 @@ watch(() => route.name, () => {
 function toggleMenu() {
   isOpen.value = !isOpen.value
 }
-
 </script>
