@@ -1,7 +1,7 @@
 <template>
   <div class="w-full bg-white py-8 px-4 sm:px-8 md:px-12 lg:px-28 lg:py-16 flex flex-col md:flex-row items-start justify-between">
     <div class="max-w-md">
-      <NuxtLink class="flex items-center pb-4" to="/#">
+      <NuxtLink class="flex items-center pb-4" to="/">
         <img class="w-20 pr-4" src="~/assets/img/uacef-logo.png" alt="UACEF Logo">
         <span class="text-3xl text-purple-900 font-bold">UACEF</span>
       </NuxtLink>
