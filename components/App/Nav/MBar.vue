@@ -25,9 +25,18 @@
 </template>
 
 <script setup>
-let isOpen = ref(false)
+const route = useRoute();
+let isOpen = ref(false);
 
+watch(() => route.name, () => {
+  console.debug(`MyCoolComponent - watch route.name changed to ${route.name}`);
+  // Do something here...
+
+  // Optionally you can set immediate: true config for the watcher to run on init
+  //}, { immediate: true });
+});
 function toggleMenu() {
   isOpen.value = !isOpen.value
 }
+
 </script>
