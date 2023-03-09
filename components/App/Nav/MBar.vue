@@ -39,6 +39,6 @@ function toggleMenu() {
 
 <style lang="postcss" scoped>
 .router-link-exact-active {
-  @apply text-purple-900 underline;
+  @apply text-purple-900 underline decoration-4;
 }
 </style>
