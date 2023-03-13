@@ -27,7 +27,7 @@
             id: 1,
             imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678132858/uacef/scholarships_gm64wq.jpg',
             name: 'University Scholarships',
-            desc: 'A lot of youths in our villages are not able to continue their education through to university due to extremely high fees and cost of living. We provide scholarships to the brightest youths among us who desire to further their education.'
+            desc: 'A lot of youths in our villages are not able to continue their education through to university due to extremely high fees and cost of living. We provide university scholarships to the brightest youths among us who desire to further their education.'
           },
           {
             id: 2,
