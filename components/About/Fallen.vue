@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center gap-2 px-4 sm:px-8 md:px-12 lg:px-28 py-24 transition-all">
+  <div class="flex justify-start gap-2 px-4 sm:px-8 md:px-12 lg:px-28 transition-all">
     <div class="rounded-t-2xl bg-white transition-all hover:shadow-md w-full mb-6 sm:w-fit ">
       <img class="w-full rounded-t-2xl object-fill h-96" :src="'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678715023/photo_2023-03-13_14-43-12_lpr53t.jpg'" :alt="'image - Late Engr Jojo Udensi'">
       <div class="p-6">
