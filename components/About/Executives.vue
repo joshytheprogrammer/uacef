@@ -33,7 +33,7 @@
         <img class="rounded-full" src="https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png" alt="Mr Kingsley Agbadike - UACEF">
       </figure>
       <h3 class="text-lg font-medium">Mr Kingsley Agbadike </h3>
-      <p class="mt-2 text-sm leading-7">National Secretary.</p>
+      <p class="mt-2 text-sm leading-7">National Secretary / Secretary Board of Trustees.</p>
     </div>
   </div>
 </template>
