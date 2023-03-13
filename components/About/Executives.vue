@@ -35,6 +35,20 @@
       <h3 class="text-lg font-medium">Mr Kingsley Agbadike </h3>
       <p class="mt-2 text-sm leading-7">National Secretary / Secretary Board of Trustees.</p>
     </div>
+    <div class="w-full sm:w-fit md:w-[49%] lg:w-[32.7%] rounded-2xl py-8 px-8 mb-4 flex flex-col items-center bg-purple-900 text-white transition-all">
+      <figure class="mb-6 w-24 border-2 rounded-full p-1">
+        <img class="rounded-full" src="https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png" alt="Mr Kingsley Agbadike - UACEF">
+      </figure>
+      <h3 class="text-lg font-medium">Mr Kingsley Agbadike </h3>
+      <p class="mt-2 text-sm leading-7">National Secretary / Secretary Board of Trustees.</p>
+    </div>
+    <div class="w-full sm:w-fit md:w-[49%] lg:w-[32.7%] rounded-2xl py-8 px-8 mb-4 flex flex-col items-center bg-purple-900 text-white transition-all">
+      <figure class="mb-6 w-24 border-2 rounded-full p-1">
+        <img class="rounded-full" src="https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png" alt="Mr Joaquin Ofoedu - UACEF">
+      </figure>
+      <h3 class="text-lg font-medium">Mr Joaquin Ofoedu </h3>
+      <p class="mt-2 text-sm leading-7">Member board of trustees.</p>
+    </div>
   </div>
 </template>
 
