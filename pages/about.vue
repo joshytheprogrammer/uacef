@@ -4,5 +4,6 @@
     <AboutCopy />
     <About />
     <AboutExecutives />
+    <AboutFallen />
   </div>
 </template>
