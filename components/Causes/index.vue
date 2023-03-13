@@ -57,7 +57,7 @@
             id: 6,
             imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678132265/uacef/christian_rayer_c5td8x.jpg',
             name: 'Spreading the Gospel',
-            desc: 'The gospel of Jesus Christ is the good news. It is the only thing that can bring hope to this world that is full of suffering and pain. We at UACEF make it our top priority to spread the gospel of Jesus Christ around our village. Especially among the idol worshippers.'
+            desc: 'The gospel of Jesus Christ is the good news. It is the only thing that can bring hope to this world that is full of suffering and pain. We at UACEF make it our top priority to spread the gospel of Jesus Christ around our villages. Especially among the idol worshippers.'
           },
           {
             id: 7,
