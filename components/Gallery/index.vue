@@ -1,7 +1,7 @@
 <template>
   <div class="md:columns-2 lg:columns-3 gap-6 px-4 sm:px-8 md:px-12 lg:px-28 py-24 transition-all">
     <figure class="w-full p-1 shadow-md mr-6 mb-6 rounded-xl inline-block border-2 border-solid border-gray-400 hover:border-purple-900" v-for="item in images" :key="item.id">
-      <img class="rounded-xl w-full" :src="item.link" :alt="item.alt">
+      <img class="rounded-xl w-full" :src="item.link" :alt="'img - '+item.id">
     </figure>
   </div>
 </template>
@@ -140,6 +140,114 @@
             id: 25,
             alt: 'img-26',
             link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1677832406/uacef/IMG-20210801-WA0063_yk6vyt.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706089/photo_2023-03-13_12-11-13_gxfb4s.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706090/photo_2023-03-13_12-11-09_krytl3.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706090/photo_2023-03-13_12-11-06_d2hysu.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706090/photo_2023-03-13_12-11-11_x48ark.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706090/photo_2023-03-13_12-11-02_ud4abm.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706090/photo_2023-03-13_12-11-04_ysv66o.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706090/photo_2023-03-13_12-10-58_rzn2zl.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706090/photo_2023-03-13_12-10-56_v2q26l.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706091/photo_2023-03-13_12-10-53_cmxdbb.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706091/photo_2023-03-13_12-10-50_yndp9h.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706091/photo_2023-03-13_12-10-46_ru4uec.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706091/photo_2023-03-13_12-10-42_k7ztyb.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706091/photo_2023-03-13_12-10-38_ty3rry.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706092/photo_2023-03-13_12-10-40_qtvhuo.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706092/photo_2023-03-13_12-10-34_aduj3r.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706092/photo_2023-03-13_12-10-32_twpc5h.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706092/photo_2023-03-13_12-10-44_bveuen.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706092/photo_2023-03-13_12-11-38_n3ygbb.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-31_tkfpxa.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-29_bpbdso.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-27_xwi6gr.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-22_z6s8gq.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-14_jjyykz.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-21_verrzg.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-18_yj7eru.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-16_rw5pcz.jpg'
+          },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-19_xgh6dt.jpg'
           },
         ]
       }
