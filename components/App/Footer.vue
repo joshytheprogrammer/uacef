@@ -59,7 +59,7 @@
         </li>
         <li class="pb-8">
           <Icon class="pr-1 text-purple-900"  name="material-symbols:location-on" size="1.25em" />
-          <span class="pr-4">No 45-46, b3, 56832, Los Angeles, CA</span>
+          <span class="pr-4 w-80 block">Akokwa Unity Centre, No 10 Uga - Orlu Road, Akokwa, Ideato North LGA, Imo State</span>
         </li>
       </ul>
     </div>
