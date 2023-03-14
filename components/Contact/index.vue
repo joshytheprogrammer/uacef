@@ -20,11 +20,11 @@
       <ul class="py-8">
         <li class="pb-8 ">
           <Icon class="pr-1 text-purple-900" name="material-symbols:phone-in-talk" size="1.25em" />
-          <span class="pr-4">+234 345 678 901 </span>
+          <span class="pr-4">+234 803 051 2882 </span>
         </li>
         <li class="pb-8">
           <Icon class="pr-1 text-purple-900"  name="material-symbols:mail-rounded" size="1.25em" />
-          <span class="pr-4">contact@ourcharity.com</span>
+          <span class="pr-4">united.acef@gmail.com</span>
         </li>
         <li class="pb-8">
           <Icon class="pr-1 text-purple-900"  name="material-symbols:location-on" size="1.25em" />

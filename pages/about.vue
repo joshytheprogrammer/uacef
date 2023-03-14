@@ -3,6 +3,7 @@
     <AboutHero />
     <AboutCopy />
     <About />
+    <AboutFallen />
     <AboutExecutives />
   </div>
 </template>

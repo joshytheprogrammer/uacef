@@ -3,11 +3,11 @@
     <div class="text-sm hidden md:block">
       <span class="pr-4">
         <Icon name="material-symbols:mail-rounded" size="1.25em" /> 
-        <span class="pl-1">contact@ourcharity.com</span>
+        <span class="pl-1">united.acef@gmail.com</span>
       </span>
       <span class="pr-4">
         <Icon name="material-symbols:phone-in-talk" size="1.25em" />
-        <span class="pl-1">+234 345 678 901 </span>
+        <span class="pl-1">+234 803 051 2882 </span>
       </span>
     </div>
     <div class="text-sm md:text-base">

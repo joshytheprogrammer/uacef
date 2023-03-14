@@ -19,7 +19,7 @@
         <Icon name="carbon:friendship" size="4.5em" />
       </figure>
       <h3 class="text-2xl font-semibold">Fellowship together</h3>
-      <p class="mt-6 text-sm leading-7">We have programmes of great magnitude hosting seasoned ministers of the gospel from all Christian divides. Several thousands are won to the kingdom yearly.</p>
+      <p class="mt-6 text-sm leading-7">We have programmes of great magnitude hosting seasoned ministers of the gospel. Several thousands of souls are won to the kingdom yearly.</p>
     </div>
     
   </div>

@@ -27,7 +27,7 @@
             id: 1,
             imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678132858/uacef/scholarships_gm64wq.jpg',
             name: 'University Scholarships',
-            desc: 'A lot of youths in our villages are not able to continue their education through to university due to extremely high fees and cost of living. We provide scholarships to the brightest youths among us who desire to further their education.'
+            desc: 'The following persons have been granted scholarships: Ohaju Obed Ifeanyi, Ruth Ikechukwu, Obi Stanley Chukwuemerie, Ohaju Solomon Izuchukwu, Onyemenam Tochukwu Victor, Ibe Chiemerie Grace, Okorocha Uchechi Judith, and much more.'
           },
           {
             id: 2,
@@ -57,7 +57,7 @@
             id: 6,
             imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678132265/uacef/christian_rayer_c5td8x.jpg',
             name: 'Spreading the Gospel',
-            desc: 'The gospel of Jesus Christ is the good news. It is the only thing that can bring hope to this world that is full of suffering and pain. We at UACEF make it our top priority to spread the gospel of Jesus Christ around our village. Especially among the idol worshippers.'
+            desc: 'The gospel of Jesus Christ is the good news. It is the only thing that can bring hope to this world that is full of suffering and pain. We at UACEF make it our top priority to spread the gospel of Jesus Christ around our villages. Especially among the idol worshippers.'
           },
           {
             id: 7,
