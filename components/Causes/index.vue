@@ -27,7 +27,7 @@
             id: 1,
             imgLink: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678132858/uacef/scholarships_gm64wq.jpg',
             name: 'University Scholarships',
-            desc: 'A lot of youths in our villages are not able to continue their education through to university due to extremely high fees and cost of living. We provide university scholarships to the brightest youths among us who desire to further their education.'
+            desc: 'The following persons have been granted scholarships: Ohaju Obed Ifeanyi, Ruth Ikechukwu, Obi Stanley Chukwuemerie, Ohaju Solomon Izuchukwu, Onyemenam Tochukwu Victor, Ibe Chiemerie Grace, Okorocha Uchechi Judith, and much more.'
           },
           {
             id: 2,
