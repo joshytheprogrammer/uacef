@@ -249,6 +249,10 @@
             id: (Math.floor(Math.random() * 10) + Math.random()),
             link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678706093/photo_2023-03-13_12-11-19_xgh6dt.jpg'
           },
+          {
+            id: (Math.floor(Math.random() * 10) + Math.random()),
+            link: 'https://res.cloudinary.com/dsgvwxygr/image/upload/v1678901081/uacef/photo_2023-03-15_18-24-21_hp6kar.jpg'
+          },
         ]
       }
     }
