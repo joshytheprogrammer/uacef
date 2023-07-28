@@ -44,6 +44,9 @@
         <li class="pb-8">
           <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/contact">Contact</NuxtLink>
         </li>
+        <li class="pb-8">
+          <a href="https://admin.uacef.org/" class="hover:underline hover:text-purple-900 font-medium" >Admin</a>
+        </li>
       </ul>
     </div>
     <div class="flex flex-col justify-between">
