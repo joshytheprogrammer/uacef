@@ -42,6 +42,9 @@
           <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/gallery">Gallery</NuxtLink>
         </li>
         <li class="pb-8">
+          <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/clips">Our Videos</NuxtLink>
+        </li>
+        <li class="pb-8">
           <NuxtLink class="hover:underline hover:text-purple-900 font-medium" to="/contact">Contact</NuxtLink>
         </li>
         <li class="pb-8">
