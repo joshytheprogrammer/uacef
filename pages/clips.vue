@@ -1,6 +1,7 @@
 <template>
-  <div class="">
+  <div class="clips">
     <ClipHero />
+    <Clip />
   </div>
 </template>
 
