@@ -29,6 +29,10 @@ This repository contains the necessary code to build and deploy the UACEF websit
 
 We would like to express our gratitude to Somade Toluwani, an 18-year-old Graphics Designer with 3 years of experience specializing in Graphics Designing. Somade worked on our logo and demonstrated proficiency in various design tools such as Photoshop, Adobe Illustrator, Canva, and photography. We appreciate their dedication to fostering growth, progress, and teamwork within a corporate setting.
 
+You can contact him on
+Instagram: [https://instagram.com/canvasvisuals](https://instagram.com/canvasvisuals)
+WhatsApp: [wa.me/+2348140298447](wa.me/+2348140298447)
+
 ## Contributing
 
 We welcome contributions from individuals who share our passion for spreading the gospel, helping the needy, and making a positive impact on our society. If you would like to contribute to the development of the UACEF website or participate in our initiatives, please feel free to submit a pull request or get in touch with us through our official channels.
