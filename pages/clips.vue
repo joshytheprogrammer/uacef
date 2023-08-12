@@ -2,6 +2,7 @@
   <div class="clips">
     <ClipHero />
     <Clip />
+    <ClipBtn />
   </div>
 </template>
 
