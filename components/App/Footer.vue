@@ -61,7 +61,7 @@
         </li>
         <li class="pb-8">
           <Icon class="pr-1 text-purple-900"  name="material-symbols:mail-rounded" size="1.25em" />
-          <span class="pr-4">united.acef@gmail.com</span>
+          <a href="mailto:united.acef@gmail.com" class="pr-4">united.acef@gmail.com</a>
         </li>
         <li class="pb-8">
           <Icon class="pr-1 text-purple-900"  name="material-symbols:location-on" size="1.25em" />
