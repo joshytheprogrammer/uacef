@@ -1,7 +1,7 @@
 <template>
   <section>
     <AppLoader v-if="isLoading" />
-    <div v-else-if="error" class="text-center mt-8 text-red-500">{{ error }}</div>
+    <AppError v-else-if="error" :errorMessage="error" />
     <div v-else class="md:columns-2 lg:columns-3 gap-6 px-4 sm:px-8 md:px-12 lg:px-28 py-24 transition-all">
       <figure class="w-full p-1 shadow-md mr-6 mb-6 rounded-xl inline-block border-2 border-solid border-gray-400 hover:border-purple-900" v-for="item in images" :key="item.id">
         <img class="rounded-xl w-full" :src="item.link" :alt="'img - ' + item.id">
