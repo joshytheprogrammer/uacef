@@ -7,6 +7,14 @@
 </template>
 
 <script setup>
+  // const {firestore} = useFirebase()
+
+  // console.log(firestore)
+
+  // const ref = firestore.collection('gallery')
+
+  // console.log(ref)
+
   const images = [
     {
       id: 0,
