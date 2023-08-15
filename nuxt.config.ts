@@ -21,16 +21,5 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@pinia/nuxt',
     'nuxt-icon',
-    // 'nuxt-vuefire'
   ],
-  // vuefire: {
-  //   config: {
-  //     apiKey: "AIzaSyDyRqhJDdfZcbHnS6EBH8yNXgakttO-HsI",
-  //     authDomain: "uacef-ng.firebaseapp.com",
-  //     projectId: "uacef-ng",
-  //     storageBucket: "uacef-ng.appspot.com",
-  //     messagingSenderId: "894787399848",
-  //     appId: "1:894787399848:web:5ab430196d8db422da129d"
-  //   },
-  // },
 })
