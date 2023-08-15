@@ -14,9 +14,6 @@
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.7",
-    "firebase": "^10.1.0",
-    "nuxt-vuefire": "^0.2.14",
-    "pinia": "^2.0.32",
-    "vuefire": "^3.1.14"
+    "pinia": "^2.0.32"
   }
 }
