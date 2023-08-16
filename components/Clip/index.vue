@@ -25,7 +25,7 @@ onMounted(async () => {
       // Push each document data into the images array
       videos.value.push({
         id: doc.id,
-        videoID: doc.data().videoID,
+        vidID: doc.data().videoID,
       });
     });
     isLoading.value = false; // Set loading state to false
