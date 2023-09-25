@@ -24,6 +24,7 @@ The UACEF website was designed and built by [joshytheprogrammer](https://github.
 ### Project Setup
 
 This repository contains the necessary code to build and deploy the UACEF website. Here are some key details:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a524853b-4cb1-4a2c-ae26-07313cb70e34/deploy-status)](https://app.netlify.com/sites/uacef/deploys)
 
 #### Contributors
 
